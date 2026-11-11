@@ -38,12 +38,7 @@ Currently available for freelance work and open to collaborations.
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlirezaSadeghiGT4X&theme=tokyonight" alt="GitHub Stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlirezaSadeghiGT4X&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlirezaSadeghiGT4X&theme=tokyonight" alt="Most Commit Languages" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlirezaSadeghiGT4X&theme=tokyonight&utcOffset=3.5" alt="Productive Time" />
 </p>
 
